@@ -46,7 +46,7 @@ Debido a que la práctica involucró la adquisición de datos fisiológicos medi
 
 
 
-<h1 align="center"><i><b>𝐏𝐚𝐫𝐭𝐞 𝘾 𝐝𝐞𝐥 𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐢𝐨</b></i></h1>
+<h1 align="center"><i><b>𝐏𝐚𝐫𝐭𝐞 B 𝐝𝐞𝐥 𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐢𝐨</b></i></h1>
 
 𝘾𝙤𝙣𝙘𝙡𝙪𝙨𝙞𝙤𝙣𝙚𝙨
 
