@@ -38,15 +38,21 @@ Cuando se produce una activación emocional, un sobresalto o una carga cognitiva
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a047fa3-145a-4fa6-a755-e68e43fd63c2" />
 
-
-
 𝙎𝙚𝙣𝙨ο𝙧
 El sensor de GSR (Galvanic Skin Response) funciona aplicando una pequeña diferencia de potencial constante a través de dos electrodos colocados en contacto con la piel [63, 240]. Para esta práctica, el dispositivo vestible se diseñó en formato de manilla (wristband) colocada en la muñeca del participante [26], empleando electrodos caseros de aluminio para registrar las variaciones de conductancia cutánea.
+
+<img width="1000" height="529" alt="image" src="https://github.com/user-attachments/assets/d5051d99-ca06-4c76-8757-7d8b1b72e417" />
+
+Para el desarrollo del dispositivo de medición de la respuesta galvánica de la piel (GSR) se seleccionó una ESP32 debido a que permite realizar la adquisición de la señal mediante sus entradas analógicas y, además, cuenta con comunicación inalámbrica mediante Bluetooth, lo que facilita la transmisión de los datos hacia un dispositivo móvil. Esta característica resulta especialmente útil para cumplir con el objetivo de desarrollar un sistema vestible y permitir la visualización del nivel de respuesta GSR sin necesidad de mantener el dispositivo conectado físicamente a un computador. La guía establece precisamente como parte de la práctica la adaptación del sistema para realizar la transmisión inalámbrica hacia un computador o celular.
+
+Por otra parte, se seleccionó una power bank como fuente de alimentación portátil, ya que permite suministrar energía a la ESP32 sin depender de una conexión permanente al computador o a una fuente de alimentación de laboratorio. De esta manera, se facilita la construcción de un dispositivo vestible, autónomo y portátil, permitiendo que el usuario pueda realizar las actividades propuestas mientras los datos de GSR son enviados inalámbricamente al celular. Esto es coherente con el objetivo de la práctica de desarrollar un dispositivo capaz de realizar un monitoreo continuo de la GSR.
 
 𝘾𝙤𝙣𝙨𝙚𝙣𝙩𝙞𝙢𝙞𝙚𝙣𝙩𝙤 𝙞𝙣𝙛ο𝙧𝙢𝙖𝙙𝙤 𝙙𝙚𝙡 𝙥𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙣𝙩𝙚
 Debido a que la práctica involucró la adquisición de datos fisiológicos mediante el registro de señales de conductancia cutánea en un sujeto de prueba humano sano [24], se diseñó e implementó un formato de Consentimiento Informado. En este documento se explicó de forma clara y explícita al participante el propósito académico de la práctica, el carácter seguro e inocuo del procedimiento (no invasivo), la confidencialidad de la información y la voluntariedad de su participación, cumpliendo con los principios bioéticos y de seguridad para el registro de biopotenciales y variables fisiológicas humanas.
 
 <img width="749" height="440" alt="image" src="https://github.com/user-attachments/assets/fd64a279-2444-48a7-822d-fee001fb9799" />
+
+<h1 align="center"><i><b>𝐏𝐚𝐫𝐭𝐞 𝘽 𝐝𝐞𝐥 𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐢𝐨</b></i></h1>
 
 𝙈ο𝙣𝙩𝙖𝙟𝙚 𝙚𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙖𝙡
 El montaje del dispositivo vestible de adquisición se compone de:
