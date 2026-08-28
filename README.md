@@ -28,6 +28,18 @@ Proporcionar un sistema de medición continua de estrés basado en la respuesta 
 
 • Plantear hipótesis desde la fisiología humana sobre el rol de la GSR como indicador de estrés [20].
 
+<h1 align="center"><i><b>𝐏𝐚𝐫𝐭𝐞 A 𝐝𝐞𝐥 𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐢𝐨</b></i></h1>
+
+La actividad electrodérmica (Electrodermal Activity, EDA), históricamente conocida como respuesta galvánica cutánea (Galvanic Skin Response, GSR), constituye uno de los biopotenciales más utilizados para evaluar el estado de activación del sistema nervioso autónomo (SNA). Su registro permite estimar de forma no invasiva el nivel de arousal fisiológico asociado a procesos emocionales, cognitivos o de estrés.
+
+Las propiedades eléctricas de la piel varían en función de la actividad de las glándulas sudoríparas ecrinas, distribuidas principalmente en la superficie palmar de las manos y la planta de los pies. A diferencia de otras glándulas sudoríparas, las ecrinas están inervadas exclusivamente por fibras simpáticas de tipo colinérgico, lo cual las convierte en un indicador directo de la activación simpática, sin interferencia de la rama parasimpática.
+
+Cuando se produce una activación emocional, un sobresalto o una carga cognitiva, el hipotálamo y el sistema límbico modulan la descarga simpática hacia las glándulas ecrinas, incrementando la secreción de sudor. El sudor, rico en electrolitos, reduce la resistencia eléctrica de la piel (o, de forma equivalente, aumenta su conductancia), fenómeno que puede registrarse mediante electrodos de superficie.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a047fa3-145a-4fa6-a755-e68e43fd63c2" />
+
+
+
 𝙎𝙚𝙣𝙨ο𝙧
 El sensor de GSR (Galvanic Skin Response) funciona aplicando una pequeña diferencia de potencial constante a través de dos electrodos colocados en contacto con la piel [63, 240]. Para esta práctica, el dispositivo vestible se diseñó en formato de manilla (wristband) colocada en la muñeca del participante [26], empleando electrodos caseros de aluminio para registrar las variaciones de conductancia cutánea.
 
