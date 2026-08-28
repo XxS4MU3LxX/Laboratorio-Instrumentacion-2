@@ -64,7 +64,7 @@ Cálculos de Seguridad Eléctrica: Para garantizar la integridad física del suj
 
 <img width="723" height="1280" alt="image" src="https://github.com/user-attachments/assets/010b6972-9ca1-4715-a2b1-0eeb38b4c75b" />
 
-<img width="201" height="256" alt="image" src="https://github.com/user-attachments/assets/013c854b-548a-487b-a35e-794c45cae953" />
+<img width="200" height="368" alt="image" src="https://github.com/user-attachments/assets/42955229-f03e-43dd-aa84-6203f2339f8f" />
 
 
 # Resultados
