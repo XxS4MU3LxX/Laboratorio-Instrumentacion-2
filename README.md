@@ -55,6 +55,8 @@ Debido a que la práctica involucró la adquisición de datos fisiológicos medi
 <h1 align="center"><i><b>𝐏𝐚𝐫𝐭𝐞 𝘽 𝐝𝐞𝐥 𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐢𝐨</b></i></h1>
 
 𝙈ο𝙣𝙩𝙖𝙟𝙚 𝙚𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙖𝙡
+<img width="133" height="132" alt="Captura de pantalla 2026-08-27 213718" src="https://github.com/user-attachments/assets/a50fd98e-b050-4040-8547-580631a389b3" />
+
 El montaje del dispositivo vestible de adquisición se compone de:
 
 Electrodos y Sujeción: Dos electrodos caseros de aluminio montados de forma interna sobre una manilla, asegurando una sujeción firme sobre la muñeca del participante para garantizar el contacto mecánico constante con la piel.
