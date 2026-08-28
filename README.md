@@ -34,8 +34,7 @@ El sensor de GSR (Galvanic Skin Response) funciona aplicando una pequeña difere
 𝘾𝙤𝙣𝙨𝙚𝙣𝙩𝙞𝙢𝙞𝙚𝙣𝙩𝙤 𝙞𝙣𝙛ο𝙧𝙢𝙖𝙙𝙤 𝙙𝙚𝙡 𝙥𝙖𝙧𝙩𝙞𝙘𝙞𝙥𝙖𝙣𝙩𝙚
 Debido a que la práctica involucró la adquisición de datos fisiológicos mediante el registro de señales de conductancia cutánea en un sujeto de prueba humano sano [24], se diseñó e implementó un formato de Consentimiento Informado. En este documento se explicó de forma clara y explícita al participante el propósito académico de la práctica, el carácter seguro e inocuo del procedimiento (no invasivo), la confidencialidad de la información y la voluntariedad de su participación, cumpliendo con los principios bioéticos y de seguridad para el registro de biopotenciales y variables fisiológicas humanas.
 
-<img width="203" height="257" alt="image" src="https://github.com/user-attachments/assets/a9ca0362-32fa-4c8e-81f1-65df34fb6aa8" />
-![Página 1](ConsentimientoPag1)
+<img width="253" height="307" alt="image" src="https://github.com/user-attachments/assets/a9ca0362-32fa-4c8e-81f1-65df34fb6aa8" />
 
 𝙈ο𝙣𝙩𝙖𝙟𝙚 𝙚𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙖𝙡
 El montaje del dispositivo vestible de adquisición se compone de:
