@@ -48,7 +48,8 @@ Debido a que la práctica involucró la adquisición de datos fisiológicos medi
 
 <img width="749" height="440" alt="image" src="https://github.com/user-attachments/assets/fd64a279-2444-48a7-822d-fee001fb9799" />
 
-<img width="253" height="307" alt="image" src="https://github.com/user-attachments/assets/a9ca0362-32fa-4c8e-81f1-65df34fb6aa8" />****
+<img width="253" height="307" alt="image" src="https://github.com/user-attachments/assets/a9ca0362-32fa-4c8e-81f1-65df34fb6aa8" />
+
 
 𝙈ο𝙣𝙩𝙖𝙟𝙚 𝙚𝙭𝙥𝙚𝙧𝙞𝙢𝙚𝙣𝙩𝙖𝙡
 El montaje del dispositivo vestible de adquisición se compone de:
