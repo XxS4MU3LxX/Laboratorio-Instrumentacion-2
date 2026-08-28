@@ -65,6 +65,10 @@ Cálculos de Seguridad Eléctrica: Para garantizar la integridad física del suj
 <img width="723" height="1280" alt="image" src="https://github.com/user-attachments/assets/010b6972-9ca1-4715-a2b1-0eeb38b4c75b" />
 
 
+El dispositivo desarrollado permite realizar la medición y visualización de la respuesta galvánica cutánea mejor conocida como señal GSR en tiempo real. Mediante los electrodos ubicados sobre la piel, se captan las variaciones de la conductancia cutánea, las cuales son procesadas por una ESP32 y transmitidas de manera inalámbrica mediante Bluetooth Low Energy (BLE) hacia el dispositivo móvil.
+
+La información recibida permite visualizar la señal GSR mediante una gráfica en tiempo real, donde se pueden observar las variaciones de la conductancia de la piel durante la actividad realizada. Adicionalmente, el sistema muestra de forma simultánea un valor instantáneo de la señal y, mediante los umbrales establecidos durante la práctica, clasifica el estado observado en diferentes niveles de estrés:bajo, leve, moderado o alto.
+
 
 <img width="200" height="368" alt="image" src="https://github.com/user-attachments/assets/42955229-f03e-43dd-aa84-6203f2339f8f" />
 
