@@ -62,6 +62,11 @@ Circuito de Acondicionamiento (Divisor de Tensión): Un circuito pasivo compuest
 Tarjeta de Adquisición y Procesamiento: Módulo de desarrollo ESP32, el cual realiza la digitalización de la señal analógica acondicionada a través de su convertidor analógico-digital (ADC) de 12 bits (pin ADC0).
 Cálculos de Seguridad Eléctrica: Para garantizar la integridad física del sujeto y cumplir con la norma internacional de seguridad, se diseñó el circuito de modo que la corriente máxima que circule por la piel del participante nunca supere el límite de 1 mA, incluso ante un cortocircuito absoluto en los electrodos ($R_{skin} = 0\text{ }\Omega$) [25]. Dado que el ESP32 trabaja con un nivel de tensión lógica de 3.3 VDC, el cálculo de corriente máxima es: $$I_{max} = \frac{V_{CC}}{R_1 + R_{skin}} = \frac{3.3\text{ V}}{68\text{ k}\Omega + 0\text{ }\Omega} \approx 0.0485\text{ mA} = 48.5\text{ }\mu\text{A}$$ De acuerdo con la norma IEC 60479 (Tabla 1), el umbral de percepción humana para corriente continua inicia entre 0 y 4 mA [248]. Dado que $48.5\text{ }\mu\text{A} \ll 1\text{ mA}$, se certifica que el circuito es completamente seguro e imperceptible para el participante [249, 254].
 
+<img width="723" height="1280" alt="image" src="https://github.com/user-attachments/assets/010b6972-9ca1-4715-a2b1-0eeb38b4c75b" />
+
+<img width="201" height="256" alt="image" src="https://github.com/user-attachments/assets/013c854b-548a-487b-a35e-794c45cae953" />
+
+
 # Resultados
 *VENTAJAS*
 
