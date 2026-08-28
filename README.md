@@ -3,7 +3,7 @@
 >
 * María Angélica Vargas Saldaña 5600820
 * Samuel Esteban Fonseca Luna 5600808
-* Laura Daniela Triana Molano 5600
+* Laura Daniela Triana Molano 5600828
 
 <h2 align="center">𝙞𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙘𝙞ó𝙣</h2>
 
